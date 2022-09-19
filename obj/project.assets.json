@@ -9436,19 +9436,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sivakumar\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\.net backend\\studentApp\\studentApp\\studentApp.csproj",
+      "projectUniqueName": "E:\\student-App\\studentApp.csproj",
       "projectName": "studentApp",
-      "projectPath": "G:\\.net backend\\studentApp\\studentApp\\studentApp.csproj",
-      "packagesPath": "C:\\Users\\Sivakumar\\.nuget\\packages\\",
-      "outputPath": "G:\\.net backend\\studentApp\\studentApp\\obj\\",
+      "projectPath": "E:\\student-App\\studentApp.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "E:\\student-App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sivakumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
