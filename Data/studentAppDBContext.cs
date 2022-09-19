@@ -3,9 +3,9 @@ using StudentApp.ViewModel;
 
 namespace StudentApp.Data
 {
-    public class studentAppDBContext: DbContext
+    public class StudentAppDBContext: DbContext
     {
-        public studentAppDBContext(DbContextOptions<studentAppDBContext>options): base(options)
+        public StudentAppDBContext(DbContextOptions<StudentAppDBContext>options): base(options)
         {
                 
         }

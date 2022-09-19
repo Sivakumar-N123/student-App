@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\student-App\\studentApp.csproj": {}
+    "G:\\.net backend\\studentApp\\studentApp\\studentApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\student-App\\studentApp.csproj": {
+    "G:\\.net backend\\studentApp\\studentApp\\studentApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\student-App\\studentApp.csproj",
+        "projectUniqueName": "G:\\.net backend\\studentApp\\studentApp\\studentApp.csproj",
         "projectName": "studentApp",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\student-App\\studentApp.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\student-App\\obj\\",
+        "projectPath": "G:\\.net backend\\studentApp\\studentApp\\studentApp.csproj",
+        "packagesPath": "C:\\Users\\Sivakumar\\.nuget\\packages\\",
+        "outputPath": "G:\\.net backend\\studentApp\\studentApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sivakumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,7 +42,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.9, )"
+              "version": "[7.0.0-rc.1.22426.7, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
