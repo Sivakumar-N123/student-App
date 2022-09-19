@@ -2,11 +2,13 @@
 
 namespace studentApp.ViewModel
 {
-    public class CourseDetails
+    public class CourseDetailsViewModel
     {
         [Key]
         public int CourseId { get; set; }
+        [Required]
         public string CourseName { get; set; }
-
+       
+        
     }
 }
