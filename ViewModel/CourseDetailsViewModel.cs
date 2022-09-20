@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace studentApp.ViewModel
+namespace StudentApp.ViewModel
 {
     public class CourseDetailsViewModel
     {
