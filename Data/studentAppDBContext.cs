@@ -1,5 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿
+using Microsoft.EntityFrameworkCore;
+
 using StudentApp.ViewModel;
+
 
 namespace StudentApp.Data
 {
@@ -10,5 +13,7 @@ namespace StudentApp.Data
                 
         }
         public DbSet<UserViewModel> UserTable { get; set; }
+        public DbSet<SpecificationViewModel> SpecificationTable { get; set; }
+        public DbSet<CourseDetailsViewModel> CourseDetailsTable { get; set; }
     }
 }
